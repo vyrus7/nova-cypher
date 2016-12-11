@@ -1,2 +1,3 @@
 # nova-cypher
-love movies
+love movies,
+but i mainlt watch series.
